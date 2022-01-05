@@ -1,7 +1,7 @@
 import React from "react";
 import Home from "./Components/Home";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Dashboard from "./Components/Dashboard";
+import Sidebar from "./Components/Sidebar";
 
 function MainRouter() {
   return (
@@ -9,7 +9,7 @@ function MainRouter() {
       <Router>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/dashboard" element={<Sidebar />} />
 
         </Routes>
       </Router>
