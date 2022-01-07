@@ -198,20 +198,9 @@ export default function Dashboard() {
               </Grid>
            */}
        <Grid>
-          <Grid item md={12} xs={12} style={{ marginLeft: "auto" }}>
-            <div className={classes.searchDiv}>
-              <Typography className={classes.filterTitle}>
-                Search by word
-              </Typography>
-              <TextField
-                label="Search"
-                variant="outlined"
-                // onChange={(e) => setMaxSalary(e.target.value)}
-                name="search"
-                style={{ width: "100%", marginTop: "20px" }}
-              />
-            </div>
-            <Grid container spacing={0} style={{ paddingLeft: "20px" }}>
+          <Grid item md={12} xs={12} >
+        
+            <Grid container spacing={0} >
             <Grid item md={12} lg={4} sm={12} xs={12} className={classes.cardContainer}>
       <div className={classes.card}>
         <div className="card-body">

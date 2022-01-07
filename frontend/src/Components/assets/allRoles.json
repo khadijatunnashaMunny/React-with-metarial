@@ -1,0 +1,66 @@
+[
+    {
+        "category": "Software Engineer",
+        "roles": [
+            {
+                "id": 1,
+                "title": "Front end engineer"
+            },
+            {
+                "id": 2,
+                "title": "Back end engineer"
+            },
+            {
+                "id": 3,
+                "title": "Full Stack engineer"
+            },
+            {
+                "id": 4,
+                "title": "Mobile engineer"
+            },
+            {
+                "id": 5,
+                "title": "Embedded engineer"
+            }
+        ]
+    },
+    {
+        "category": "INFRASTRUCTURE",
+        "roles": [
+            {
+                "id": 6,
+                "title": "DevOps engineer"
+            }
+        ]
+    },
+    {
+        "category": "Data",
+        "roles": [
+            {
+                "id": 7,
+                "title": "Data engineer"
+            },
+            {
+                "id": 8,
+                "title": "Data Scientist"
+            },
+            {
+                "id": 9,
+                "title": "Machine learning Eng."
+            }
+        ]
+    },
+    {
+        "category": "LEADERSHIP",
+        "roles": [
+            {
+                "id": 10,
+                "title": "Engineering Manager"
+            },
+            {
+                "id": 11,
+                "title": "Tech Lead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "campaign_name": "Frontend developer",
+    "status": "active",
+    "candidates": [
+      {
+        "id": 1,
+        "name": "candidate 001",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 40000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 2,
+        "name": "candidate 002",
+        "stage": "shortlisted",
+        "prevStage": "sourced",
+        "rating": 1,
+        "expected_salary": 50000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 3,
+        "name": "candidate 003",
+        "stage": "hired",
+        "prevStage": "sourced",
+        "rating": 3,
+        "expected_salary": 100000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 4,
+        "name": "candidate 004",
+        "stage": "shortlisted",
+        "prevStage": "sourced",
+        "rating": 4,
+        "expected_salary": 70000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 5,
+        "name": "candidate 005",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 50000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 6,
+        "name": "candidate 006",
+        "stage": "hired",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 60000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 7,
+        "name": "candidate 007",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 1,
+        "expected_salary": 70000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 8,
+        "name": "candidate 008",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 3,
+        "expected_salary": 55000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 9,
+        "name": "candidate 009",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 4,
+        "expected_salary": 44000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 10,
+        "name": "candidate 010",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 70000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 11,
+        "name": "candidate 011",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 54000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 12,
+        "name": "candidate 012",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 1,
+        "expected_salary": 79000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 13,
+        "name": "candidate 013",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 3,
+        "expected_salary": 88000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 14,
+        "name": "candidate 014",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 4,
+        "expected_salary": 76000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 15,
+        "name": "candidate 015",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 65000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 16,
+        "name": "candidate 016",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 55000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 17,
+        "name": "candidate 017",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 1,
+        "expected_salary": 90000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 18,
+        "name": "candidate 018",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 3,
+        "expected_salary": 80000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 19,
+        "name": "candidate 019",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 4,
+        "expected_salary": 40000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 20,
+        "name": "candidate 020",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 50000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      }
+    ]
+  },
+  {
+    "campaign_name": "Backend developer",
+    "status": "active",
+    "candidates": [
+      {
+        "id": 1,
+        "name": "candidate 001",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 40000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 2,
+        "name": "candidate 002",
+        "stage": "hired",
+        "prevStage": "sourced",
+        "rating": 1,
+        "expected_salary": 50000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 3,
+        "name": "candidate 003",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 3,
+        "expected_salary": 100000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 4,
+        "name": "candidate 004",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 4,
+        "expected_salary": 70000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 5,
+        "name": "candidate 005",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 50000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 6,
+        "name": "candidate 006",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 60000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 7,
+        "name": "candidate 007",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 1,
+        "expected_salary": 70000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 8,
+        "name": "candidate 008",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 3,
+        "expected_salary": 55000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 9,
+        "name": "candidate 009",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 4,
+        "expected_salary": 44000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 10,
+        "name": "candidate 010",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 70000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 11,
+        "name": "candidate 011",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 54000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 12,
+        "name": "candidate 012",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 1,
+        "expected_salary": 79000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 13,
+        "name": "candidate 013",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 3,
+        "expected_salary": 88000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 14,
+        "name": "candidate 014",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 4,
+        "expected_salary": 76000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 15,
+        "name": "candidate 015",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 65000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 16,
+        "name": "candidate 016",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 55000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 17,
+        "name": "candidate 017",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 1,
+        "expected_salary": 90000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 18,
+        "name": "candidate 018",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 3,
+        "expected_salary": 80000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 19,
+        "name": "candidate 019",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 4,
+        "expected_salary": 40000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 20,
+        "name": "candidate 020",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 50000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      }
+    ]
+  },
+  {
+    "campaign_name": "DevOps Engineer",
+    "status": "archived",
+    "candidates": [
+      {
+        "id": 1,
+        "name": "candidate 001",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 40000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 2,
+        "name": "candidate 002",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 1,
+        "expected_salary": 50000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 3,
+        "name": "candidate 003",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 3,
+        "expected_salary": 100000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 4,
+        "name": "candidate 004",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 4,
+        "expected_salary": 70000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 5,
+        "name": "candidate 005",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 50000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 6,
+        "name": "candidate 006",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 60000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 7,
+        "name": "candidate 007",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 1,
+        "expected_salary": 70000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 8,
+        "name": "candidate 008",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 3,
+        "expected_salary": 55000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 9,
+        "name": "candidate 009",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 4,
+        "expected_salary": 44000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 10,
+        "name": "candidate 010",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 70000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 11,
+        "name": "candidate 011",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 54000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 12,
+        "name": "candidate 012",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 1,
+        "expected_salary": 79000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 13,
+        "name": "candidate 013",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 3,
+        "expected_salary": 88000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 14,
+        "name": "candidate 014",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 4,
+        "expected_salary": 76000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 15,
+        "name": "candidate 015",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 65000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 16,
+        "name": "candidate 016",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 55000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 17,
+        "name": "candidate 017",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 1,
+        "expected_salary": 90000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 18,
+        "name": "candidate 018",
+        "stage": "hired",
+        "prevStage": "sourced",
+        "rating": 3,
+        "expected_salary": 80000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 19,
+        "name": "candidate 019",
+        "stage": "hired",
+        "prevStage": "sourced",
+        "rating": 4,
+        "expected_salary": 40000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      },
+      {
+        "id": 20,
+        "name": "candidate 020",
+        "stage": "sourced",
+        "prevStage": "sourced",
+        "rating": 2,
+        "expected_salary": 50000,
+        "role": "frontend developer",
+        "willing_to_relocate": "Yes"
+      }
+    ]
+  }
+]

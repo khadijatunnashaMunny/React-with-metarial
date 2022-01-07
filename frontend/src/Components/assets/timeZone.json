@@ -1,0 +1,2127 @@
+[
+    {
+        "objectId": "Czx7Sxf5x5",
+        "TimeZone": "Africa/Lagos",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "gDuq17M3jb",
+        "TimeZone": "Africa/Bujumbura",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "aKdV2TgVJG",
+        "TimeZone": "Africa/Harare",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "wyAAeLJg8q",
+        "TimeZone": "Africa/Malabo",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "0v1BB9LyVz",
+        "TimeZone": "Africa/Banjul",
+        "UTC": "0"
+    },
+    {
+        "objectId": "VNipNL9iMh",
+        "TimeZone": "Africa/Dar_es_Salaam",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "bgQ8kzQlKV",
+        "TimeZone": "Africa/Bissau",
+        "UTC": "0"
+    },
+    {
+        "objectId": "libwQgETPN",
+        "TimeZone": "Africa/Accra",
+        "UTC": "0"
+    },
+    {
+        "objectId": "n9XKuUtSuC",
+        "TimeZone": "Africa/Kigali",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "PKczD2QUUQ",
+        "TimeZone": "Africa/Freetown",
+        "UTC": "0"
+    },
+    {
+        "objectId": "pgDqLh6NCD",
+        "TimeZone": "America/Argentina/Ushuaia",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "Vx3GN75HGH",
+        "TimeZone": "America/Antigua",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "HMZ9UIqdfY",
+        "TimeZone": "America/Bogota",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "4rQq4VtCVM",
+        "TimeZone": "Africa/Gaborone",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "fXGALj718h",
+        "TimeZone": "America/Araguaina",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "mgSk9lDVQy",
+        "TimeZone": "America/Argentina/Tucuman",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "kZrh4RgFWb",
+        "TimeZone": "Africa/Nouakchott",
+        "UTC": "0"
+    },
+    {
+        "objectId": "2pOOGHOGEG",
+        "TimeZone": "Africa/Juba",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "GZSVHAGgMm",
+        "TimeZone": "Africa/Maseru",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "8c50Yk0Sba",
+        "TimeZone": "Africa/Casablanca",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "WAjuYpDPcc",
+        "TimeZone": "Africa/Johannesburg",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "GJO7VFCjj3",
+        "TimeZone": "Africa/Conakry",
+        "UTC": "0"
+    },
+    {
+        "objectId": "0gjoZfSTcq",
+        "TimeZone": "Africa/Cairo",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "9IgyS3CP5V",
+        "TimeZone": "America/Argentina/San_Juan",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "FF19sFoy2h",
+        "TimeZone": "Africa/Sao_Tome",
+        "UTC": "0"
+    },
+    {
+        "objectId": "uwNo3YzXsD",
+        "TimeZone": "Africa/Niamey",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "lSmKjAsGZd",
+        "TimeZone": "Africa/Tripoli",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "AB1hd96HSJ",
+        "TimeZone": "America/Anguilla",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "S5qWb8smGm",
+        "TimeZone": "America/Blanc-Sablon",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "BqsMQn9GsJ",
+        "TimeZone": "Africa/Kampala",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "4Lz6iAijhp",
+        "TimeZone": "Africa/Brazzaville",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "7UTTmvuBpI",
+        "TimeZone": "America/Barbados",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "57D4zE6sWm",
+        "TimeZone": "America/Adak",
+        "UTC": "-10"
+    },
+    {
+        "objectId": "1cS0qgxqeZ",
+        "TimeZone": "Africa/Mogadishu",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "W0Eaqj8QnN",
+        "TimeZone": "Africa/Blantyre",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "G9nVDopTls",
+        "TimeZone": "Africa/Ouagadougou",
+        "UTC": "0"
+    },
+    {
+        "objectId": "NkMNCWPGsI",
+        "TimeZone": "America/Atikokan",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "dcieGadry1",
+        "TimeZone": "Africa/Maputo",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "9gq0BNRegR",
+        "TimeZone": "Africa/El_Aaiun",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "K2VCTbHcjX",
+        "TimeZone": "Africa/Ndjamena",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "z6EGp7eY7v",
+        "TimeZone": "Africa/Lusaka",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "PEiRRNqC6k",
+        "TimeZone": "Africa/Khartoum",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "8jHw8ynZWW",
+        "TimeZone": "Africa/Nairobi",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "VKHcJGqQHW",
+        "TimeZone": "Africa/Asmara",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "YL0fEpBhVh",
+        "TimeZone": "Africa/Djibouti",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "VRyv3J0jPk",
+        "TimeZone": "Africa/Bangui",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "Nt4Y00eT5O",
+        "TimeZone": "Africa/Porto-Novo",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "1sQLwCJpE8",
+        "TimeZone": "America/Bahia",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "HvsLREeyhD",
+        "TimeZone": "Africa/Bamako",
+        "UTC": "0"
+    },
+    {
+        "objectId": "eL8DQAHjQM",
+        "TimeZone": "Africa/Libreville",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "xFOa2n1l5K",
+        "TimeZone": "Africa/Addis_Ababa",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "wzvv5nXmGp",
+        "TimeZone": "Africa/Algiers",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "aayofaF3N7",
+        "TimeZone": "Africa/Abidjan",
+        "UTC": "0"
+    },
+    {
+        "objectId": "wTDw4sXsYr",
+        "TimeZone": "America/Argentina/Mendoza",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "YMrjdiGBKm",
+        "TimeZone": "Africa/Lubumbashi",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "mvfTncPNgO",
+        "TimeZone": "Africa/Lome",
+        "UTC": "0"
+    },
+    {
+        "objectId": "toHgK62zHC",
+        "TimeZone": "Africa/Mbabane",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "aLzqL2YMAd",
+        "TimeZone": "America/Bahia_Banderas",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "M60R1MF4MD",
+        "TimeZone": "Africa/Ceuta",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "ANVZuFlU4i",
+        "TimeZone": "America/Denver",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "uZXUpzfqYV",
+        "TimeZone": "America/Caracas",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "a8PcSM1D4e",
+        "TimeZone": "America/Campo_Grande",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "vWHWVgE0Pa",
+        "TimeZone": "America/Costa_Rica",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "fDKVe2D9kg",
+        "TimeZone": "America/Detroit",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "ZcDtlZeBJD",
+        "TimeZone": "Africa/Kinshasa",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "fMnvMlikvd",
+        "TimeZone": "America/Argentina/Rio_Gallegos",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "gxuhA4BXEg",
+        "TimeZone": "Africa/Monrovia",
+        "UTC": "0"
+    },
+    {
+        "objectId": "fFxsyVbhWL",
+        "TimeZone": "Africa/Luanda",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "v3B4Uu2dvl",
+        "TimeZone": "Africa/Douala",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "vNcV15WF7f",
+        "TimeZone": "America/Argentina/Catamarca",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "6pZw0srPHC",
+        "TimeZone": "America/Argentina/La_Rioja",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "FTgIoQSfCS",
+        "TimeZone": "America/Argentina/Jujuy",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "Fd076NzVVh",
+        "TimeZone": "America/Cancun",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "DBM0OCaJ3v",
+        "TimeZone": "Africa/Tunis",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "TtK6whAWpE",
+        "TimeZone": "America/Boise",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "sp6OFJCYuk",
+        "TimeZone": "Africa/Dakar",
+        "UTC": "0"
+    },
+    {
+        "objectId": "EpTMAAzlPM",
+        "TimeZone": "America/Cuiaba",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "Lh4qGSM9dW",
+        "TimeZone": "America/Asuncion",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "w9006NhilK",
+        "TimeZone": "America/Cayman",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "wuitzju1e9",
+        "TimeZone": "America/Edmonton",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "y3g51Vwhhx",
+        "TimeZone": "Africa/Windhoek",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "EtPnBmML7o",
+        "TimeZone": "America/Eirunepe",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "FpYRQZcRwO",
+        "TimeZone": "America/Argentina/Salta",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "eOpjmA7DPg",
+        "TimeZone": "America/Cayenne",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "I2EwRmOfaQ",
+        "TimeZone": "America/Creston",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "TGx0ELJbTQ",
+        "TimeZone": "America/Argentina/Buenos_Aires",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "0NvM4HVWnq",
+        "TimeZone": "America/Argentina/Cordoba",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "MWV3rCEclC",
+        "TimeZone": "America/Argentina/San_Luis",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "vF58C7GxNV",
+        "TimeZone": "America/Belize",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "JcITuALKkb",
+        "TimeZone": "America/Anchorage",
+        "UTC": "-9"
+    },
+    {
+        "objectId": "bWECKKdkv1",
+        "TimeZone": "America/Belem",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "mS4xMBiZdZ",
+        "TimeZone": "America/Curacao",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "hGOy934kLq",
+        "TimeZone": "America/Cambridge_Bay",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "KmDIzpFEF5",
+        "TimeZone": "America/Danmarkshavn",
+        "UTC": "0"
+    },
+    {
+        "objectId": "oJAzk1ZuxT",
+        "TimeZone": "America/Chicago",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "aNpb4Z4cYd",
+        "TimeZone": "America/Dawson_Creek",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "g3Ds2IHHds",
+        "TimeZone": "America/Aruba",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "OJGqpAkly3",
+        "TimeZone": "America/Boa_Vista",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "4COiAVuBoa",
+        "TimeZone": "America/Dawson",
+        "UTC": "-8"
+    },
+    {
+        "objectId": "kg4bJLjWua",
+        "TimeZone": "America/Chihuahua",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "ANCofEIYIb",
+        "TimeZone": "America/Dominica",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "nZ3jw3gEQI",
+        "TimeZone": "America/Glace_Bay",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "DbQrVqe686",
+        "TimeZone": "America/Guadeloupe",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "VYkty8kRzD",
+        "TimeZone": "America/Grenada",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "G0EBhtrKhq",
+        "TimeZone": "America/Grand_Turk",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "3ILZtGrR08",
+        "TimeZone": "America/Fortaleza",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "L0RcUJwHOF",
+        "TimeZone": "America/Fort_Nelson",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "qFTdJKvNOD",
+        "TimeZone": "America/Godthab",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "ZNyYnODagF",
+        "TimeZone": "America/El_Salvador",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "xhDYC4qj0j",
+        "TimeZone": "America/Iqaluit",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "g0cvx9FIHG",
+        "TimeZone": "America/Guayaquil",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "0DfAsBiFJO",
+        "TimeZone": "America/Indiana/Tell_City",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "FJylazJBiZ",
+        "TimeZone": "America/Inuvik",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "DbsGYlDLTo",
+        "TimeZone": "America/Kralendijk",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "v9hXFuK1xC",
+        "TimeZone": "America/Goose_Bay",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "RvAISNThXk",
+        "TimeZone": "America/Guatemala",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "VhEl5vIzLc",
+        "TimeZone": "America/Indiana/Indianapolis",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "AxaxGNX56o",
+        "TimeZone": "America/Indiana/Petersburg",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "w95wFXlupa",
+        "TimeZone": "America/Havana",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "aY3tkPtdem",
+        "TimeZone": "America/Hermosillo",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "r0CTG0BiZ5",
+        "TimeZone": "America/Indiana/Knox",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "qgAjfGu2CZ",
+        "TimeZone": "America/Indiana/Winamac",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "BMt9lvEUIs",
+        "TimeZone": "America/Halifax",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "sg95ul0cdv",
+        "TimeZone": "America/Indiana/Vevay",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "i7IYVAUTy4",
+        "TimeZone": "America/Guyana",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "tMIMQmjOgX",
+        "TimeZone": "America/Indiana/Marengo",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "Y9bPMmls6v",
+        "TimeZone": "America/Kentucky/Louisville",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "UTeEhnekyX",
+        "TimeZone": "America/Indiana/Vincennes",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "EuS2c4OEV0",
+        "TimeZone": "America/Matamoros",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "Qn7sgDyRXN",
+        "TimeZone": "America/Merida",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "WvvPaIfQ1s",
+        "TimeZone": "America/Jamaica",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "4aE1FHVXNZ",
+        "TimeZone": "America/Los_Angeles",
+        "UTC": "-8"
+    },
+    {
+        "objectId": "hh9uSdRyIR",
+        "TimeZone": "America/Juneau",
+        "UTC": "-9"
+    },
+    {
+        "objectId": "78KZpv06dD",
+        "TimeZone": "America/Lima",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "wR8MbeA8Dm",
+        "TimeZone": "America/Marigot",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "5JGZECQYwi",
+        "TimeZone": "America/Maceio",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "4akoQdSGVp",
+        "TimeZone": "America/La_Paz",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "5yuakln9GD",
+        "TimeZone": "America/Kentucky/Monticello",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "VWnrMH5QOS",
+        "TimeZone": "America/Lower_Princes",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "r5OdYW1hUR",
+        "TimeZone": "America/Moncton",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "ynIRkazSrn",
+        "TimeZone": "America/Montevideo",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "fscEPEGI9b",
+        "TimeZone": "America/Martinique",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "vwYLJ7TnzA",
+        "TimeZone": "America/Panama",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "GlWzmopRS5",
+        "TimeZone": "America/Managua",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "Gn9EV3l0jD",
+        "TimeZone": "America/Miquelon",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "K3Z9J3vIDG",
+        "TimeZone": "America/New_York",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "dO6IwLDFqV",
+        "TimeZone": "America/Metlakatla",
+        "UTC": "-9"
+    },
+    {
+        "objectId": "POts9Zzrpy",
+        "TimeZone": "America/Mexico_City",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "QZIu9dK38h",
+        "TimeZone": "America/Manaus",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "g5c3P0Dbx6",
+        "TimeZone": "America/Menominee",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "tpfSczIWEG",
+        "TimeZone": "America/Mazatlan",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "aYeMsUtZ3N",
+        "TimeZone": "America/North_Dakota/Center",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "GRQIwyzjRy",
+        "TimeZone": "America/Monterrey",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "te7ktMSD9W",
+        "TimeZone": "America/Montserrat",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "SzGyjp5EG4",
+        "TimeZone": "America/Nipigon",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "IWz9dWVN7c",
+        "TimeZone": "America/North_Dakota/New_Salem",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "sL9aCcSBhb",
+        "TimeZone": "America/Nassau",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "fozRpyOlsw",
+        "TimeZone": "America/Noronha",
+        "UTC": "-2"
+    },
+    {
+        "objectId": "cqv5QNcVon",
+        "TimeZone": "America/Nome",
+        "UTC": "-9"
+    },
+    {
+        "objectId": "6fkzK5ePw7",
+        "TimeZone": "America/Phoenix",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "dhAFbfOYV9",
+        "TimeZone": "America/Paramaribo",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "svdcwhVth0",
+        "TimeZone": "America/Port_of_Spain",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "o5ltzKyprB",
+        "TimeZone": "America/Punta_Arenas",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "PV5KkPXA2U",
+        "TimeZone": "America/North_Dakota/Beulah",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "JI8JFdo692",
+        "TimeZone": "America/Port-au-Prince",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "XAjIuz3DwD",
+        "TimeZone": "America/Ojinaga",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "WXH8voW48c",
+        "TimeZone": "America/Rankin_Inlet",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "uhPXeGTpUB",
+        "TimeZone": "America/Santarem",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "5PhK1nFOsa",
+        "TimeZone": "America/Rainy_River",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "hcRAbVOtYO",
+        "TimeZone": "America/St_Kitts",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "5fZHeldE2g",
+        "TimeZone": "America/Porto_Velho",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "hgcFuaZy9s",
+        "TimeZone": "America/Pangnirtung",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "iGaNt5XuSu",
+        "TimeZone": "America/Resolute",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "hHBatyB0UT",
+        "TimeZone": "America/Scoresbysund",
+        "UTC": "-1"
+    },
+    {
+        "objectId": "rxTHOxhX29",
+        "TimeZone": "America/Rio_Branco",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "D3neAwwtXR",
+        "TimeZone": "America/Recife",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "VRqcrPB8Nw",
+        "TimeZone": "America/Puerto_Rico",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "gAqJIxCSRj",
+        "TimeZone": "America/Tegucigalpa",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "rhDdrYVfgA",
+        "TimeZone": "America/Santo_Domingo",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "LVJ5JKf1s7",
+        "TimeZone": "America/Sitka",
+        "UTC": "-9"
+    },
+    {
+        "objectId": "Zmjx4afRLH",
+        "TimeZone": "America/Sao_Paulo",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "qMvUssoAeT",
+        "TimeZone": "America/St_Thomas",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "6BcBRAi5Zw",
+        "TimeZone": "America/Regina",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "4xb3NbJQd6",
+        "TimeZone": "America/Santiago",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "tGGfB6KVZY",
+        "TimeZone": "America/Thule",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "n9TxkUUTDA",
+        "TimeZone": "America/St_Vincent",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "DNIsWgyFSW",
+        "TimeZone": "America/Thunder_Bay",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "VO4EtRrQtB",
+        "TimeZone": "America/Tortola",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "tEMYaIuILq",
+        "TimeZone": "America/Yellowknife",
+        "UTC": "-7"
+    },
+    {
+        "objectId": "BsixeUEWnZ",
+        "TimeZone": "America/St_Lucia",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "EKlxr5s4DN",
+        "TimeZone": "America/St_Barthelemy",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "BlYQs3KxHe",
+        "TimeZone": "America/Vancouver",
+        "UTC": "-8"
+    },
+    {
+        "objectId": "puN2ExN9DD",
+        "TimeZone": "America/Swift_Current",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "V9BteXS9Pj",
+        "TimeZone": "America/St_Johns",
+        "UTC": "-2.30"
+    },
+    {
+        "objectId": "UcJqsE8yFh",
+        "TimeZone": "America/Toronto",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "yPCuQ7IKWH",
+        "TimeZone": "America/Whitehorse",
+        "UTC": "-8"
+    },
+    {
+        "objectId": "meMkOqGmsb",
+        "TimeZone": "America/Yakutat",
+        "UTC": "-9"
+    },
+    {
+        "objectId": "vCwwahFnWa",
+        "TimeZone": "Antarctica/Casey",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "mDVbgprSaZ",
+        "TimeZone": "America/Tijuana",
+        "UTC": "-8"
+    },
+    {
+        "objectId": "6EjeFHSX8Z",
+        "TimeZone": "America/Winnipeg",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "sZTqmfBffV",
+        "TimeZone": "Antarctica/Davis",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "i720hjvNNh",
+        "TimeZone": "Antarctica/DumontDUrville",
+        "UTC": "+ 10"
+    },
+    {
+        "objectId": "bOYmQn9Kuf",
+        "TimeZone": "Antarctica/Syowa",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "ZcueL50BtJ",
+        "TimeZone": "Antarctica/Vostok",
+        "UTC": "+ 6"
+    },
+    {
+        "objectId": "2FhsiB27Hy",
+        "TimeZone": "Asia/Almaty",
+        "UTC": "+ 6"
+    },
+    {
+        "objectId": "QB0fQ2gwHl",
+        "TimeZone": "Antarctica/Rothera",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "b4GD4JFdhe",
+        "TimeZone": "Asia/Amman",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "7XXxgH9rKB",
+        "TimeZone": "Asia/Aqtobe",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "GxmbNDmEug",
+        "TimeZone": "Antarctica/McMurdo",
+        "UTC": "+ 13"
+    },
+    {
+        "objectId": "nkAQIHq4eB",
+        "TimeZone": "Antarctica/Mawson",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "rySqB0zJZ2",
+        "TimeZone": "Antarctica/Macquarie",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "ZHhesjfF5O",
+        "TimeZone": "Asia/Aden",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "6voJhscgax",
+        "TimeZone": "Antarctica/Palmer",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "nRd28gMWrG",
+        "TimeZone": "Asia/Aqtau",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "STtBsYd25K",
+        "TimeZone": "Antarctica/Troll",
+        "UTC": "0"
+    },
+    {
+        "objectId": "eeb0eUv2q0",
+        "TimeZone": "Asia/Anadyr",
+        "UTC": "+ 12"
+    },
+    {
+        "objectId": "MHrZDrinFt",
+        "TimeZone": "Arctic/Longyearbyen",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "sHxFZUVGDz",
+        "TimeZone": "Asia/Chita",
+        "UTC": "+ 9"
+    },
+    {
+        "objectId": "BXlZGUTibd",
+        "TimeZone": "Asia/Dili",
+        "UTC": "+ 9"
+    },
+    {
+        "objectId": "xd65RJ9FRo",
+        "TimeZone": "Asia/Beirut",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "yEw1gaxGbU",
+        "TimeZone": "Asia/Baku",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "3zin9KwfNN",
+        "TimeZone": "Asia/Colombo",
+        "UTC": "+ 5.30"
+    },
+    {
+        "objectId": "grPsJ6QCpy",
+        "TimeZone": "Asia/Bishkek",
+        "UTC": "+ 6"
+    },
+    {
+        "objectId": "AMPw3faWUG",
+        "TimeZone": "Asia/Bangkok",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "xyTCRZR65e",
+        "TimeZone": "Asia/Bahrain",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "FzEBGfs2Z3",
+        "TimeZone": "Asia/Ashgabat",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "WfeSg9o6CL",
+        "TimeZone": "Asia/Atyrau",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "uAXwlvLgFn",
+        "TimeZone": "Asia/Barnaul",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "rBUAet8wt6",
+        "TimeZone": "Asia/Dhaka",
+        "UTC": "+ 6"
+    },
+    {
+        "objectId": "8Ca0jTX5qs",
+        "TimeZone": "Asia/Baghdad",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "gCjMGQqEIp",
+        "TimeZone": "Asia/Choibalsan",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "e4QVRQ4kxe",
+        "TimeZone": "Asia/Damascus",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "y8eBojt4Oa",
+        "TimeZone": "Asia/Brunei",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "ZCrrYHdReX",
+        "TimeZone": "Asia/Jerusalem",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "VmZt48S1Td",
+        "TimeZone": "Asia/Dushanbe",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "pedQEJRb2K",
+        "TimeZone": "Asia/Hong_Kong",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "DufbM55tmY",
+        "TimeZone": "Asia/Gaza",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "SvVEsFG9ci",
+        "TimeZone": "Asia/Hebron",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "d5gpPyFQnk",
+        "TimeZone": "Asia/Dubai",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "X3PkFV9nR8",
+        "TimeZone": "Asia/Hovd",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "10HDs9FuEj",
+        "TimeZone": "Asia/Kathmandu",
+        "UTC": "+ 5.45"
+    },
+    {
+        "objectId": "PUAPyJQmV7",
+        "TimeZone": "Asia/Jakarta",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "PcW2Bc5mRh",
+        "TimeZone": "Asia/Famagusta",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "rNIUHsoCxl",
+        "TimeZone": "Asia/Kabul",
+        "UTC": "+ 4.30"
+    },
+    {
+        "objectId": "IQk3mVdGVn",
+        "TimeZone": "Asia/Karachi",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "L7GdsbSd0b",
+        "TimeZone": "Asia/Jayapura",
+        "UTC": "+ 9"
+    },
+    {
+        "objectId": "CMe1H2o2u5",
+        "TimeZone": "Asia/Ho_Chi_Minh",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "TOFkvC4DFy",
+        "TimeZone": "Asia/Irkutsk",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "huMjyz0o1c",
+        "TimeZone": "Asia/Kamchatka",
+        "UTC": "+ 12"
+    },
+    {
+        "objectId": "km3ZrYdb5c",
+        "TimeZone": "Asia/Muscat",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "GKuuGXD9hR",
+        "TimeZone": "Asia/Kuala_Lumpur",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "kfJcKBoTL3",
+        "TimeZone": "Asia/Kuching",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "z8CGuu5XDH",
+        "TimeZone": "Asia/Oral",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "ZAO3HYeMBq",
+        "TimeZone": "Asia/Kolkata",
+        "UTC": "+ 5.30"
+    },
+    {
+        "objectId": "QAZLsCgKqg",
+        "TimeZone": "Asia/Macau",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "RnLUrTaXmz",
+        "TimeZone": "Asia/Khandyga",
+        "UTC": "+ 9"
+    },
+    {
+        "objectId": "WOZdThv8Ef",
+        "TimeZone": "Asia/Kuwait",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "s7Y2SaHGRw",
+        "TimeZone": "Asia/Krasnoyarsk",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "EwI3r0dR1H",
+        "TimeZone": "Asia/Novokuznetsk",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "DnwtKDs3wJ",
+        "TimeZone": "Asia/Manila",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "eIylAoqSUd",
+        "TimeZone": "Asia/Magadan",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "Hi2uZMGkBg",
+        "TimeZone": "Asia/Novosibirsk",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "qYx3htAbm1",
+        "TimeZone": "Asia/Makassar",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "BEHs6AuQ2C",
+        "TimeZone": "Asia/Omsk",
+        "UTC": "+ 6"
+    },
+    {
+        "objectId": "R8jTbBzWJO",
+        "TimeZone": "Asia/Nicosia",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "nM6B2B0Dur",
+        "TimeZone": "Asia/Qyzylorda",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "etx2AlvAKf",
+        "TimeZone": "Asia/Qostanay",
+        "UTC": "+ 6"
+    },
+    {
+        "objectId": "4EWKHV6WQi",
+        "TimeZone": "Asia/Pontianak",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "ozcmMssnS8",
+        "TimeZone": "Asia/Sakhalin",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "TINm0ohDHB",
+        "TimeZone": "Asia/Qatar",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "o7LYw36erS",
+        "TimeZone": "Asia/Tbilisi",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "POuv0MaUnU",
+        "TimeZone": "Asia/Phnom_Penh",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "KI1yHTHRYF",
+        "TimeZone": "Asia/Singapore",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "sTc3JLj7qk",
+        "TimeZone": "Asia/Pyongyang",
+        "UTC": "+ 9"
+    },
+    {
+        "objectId": "JRDW1qvGLD",
+        "TimeZone": "Asia/Taipei",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "3EGf6BTByV",
+        "TimeZone": "Asia/Shanghai",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "H7HpkJAHOi",
+        "TimeZone": "Asia/Samarkand",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "M8rGIp2kzo",
+        "TimeZone": "Asia/Tashkent",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "JzZhrqsQ8D",
+        "TimeZone": "Asia/Srednekolymsk",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "PNP3hPPGFQ",
+        "TimeZone": "Asia/Riyadh",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "4DTuFE2ePJ",
+        "TimeZone": "Asia/Seoul",
+        "UTC": "+ 9"
+    },
+    {
+        "objectId": "l0AnLSOIeD",
+        "TimeZone": "Asia/Tomsk",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "DkWiELht0j",
+        "TimeZone": "Asia/Ust-Nera",
+        "UTC": "+ 10"
+    },
+    {
+        "objectId": "M3ruEWjcUy",
+        "TimeZone": "Asia/Tokyo",
+        "UTC": "+ 9"
+    },
+    {
+        "objectId": "3CrY9HASlR",
+        "TimeZone": "Asia/Yekaterinburg",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "ddrvxihGvV",
+        "TimeZone": "Asia/Ulaanbaatar",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "JkOHRzZ1rM",
+        "TimeZone": "Asia/Vladivostok",
+        "UTC": "+ 10"
+    },
+    {
+        "objectId": "LmVuRk9p1h",
+        "TimeZone": "Asia/Tehran",
+        "UTC": "+ 3.30"
+    },
+    {
+        "objectId": "bly7aUdpPv",
+        "TimeZone": "Asia/Thimphu",
+        "UTC": "+ 6"
+    },
+    {
+        "objectId": "QgX4EN4g0i",
+        "TimeZone": "Asia/Vientiane",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "VfMyGtBiac",
+        "TimeZone": "Asia/Urumqi",
+        "UTC": "+ 6"
+    },
+    {
+        "objectId": "ypc5UKjSu3",
+        "TimeZone": "Asia/Yerevan",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "NLGIJ6XDJR",
+        "TimeZone": "Asia/Yakutsk",
+        "UTC": "+ 9"
+    },
+    {
+        "objectId": "FJV3aG2CEZ",
+        "TimeZone": "Asia/Yangon",
+        "UTC": "+ 6.30"
+    },
+    {
+        "objectId": "VOfNDSj2Si",
+        "TimeZone": "Atlantic/Bermuda",
+        "UTC": "-4"
+    },
+    {
+        "objectId": "R3dEFC7PGp",
+        "TimeZone": "Atlantic/Faroe",
+        "UTC": "0"
+    },
+    {
+        "objectId": "70ZDtvFZ5O",
+        "TimeZone": "Atlantic/Cape_Verde",
+        "UTC": "-1"
+    },
+    {
+        "objectId": "1U96kOGKOd",
+        "TimeZone": "Atlantic/Azores",
+        "UTC": "-1"
+    },
+    {
+        "objectId": "wqxIR2Ee03",
+        "TimeZone": "Atlantic/Canary",
+        "UTC": "0"
+    },
+    {
+        "objectId": "O8M9QtaGvP",
+        "TimeZone": "Atlantic/Reykjavik",
+        "UTC": "0"
+    },
+    {
+        "objectId": "qZBWkEPnpx",
+        "TimeZone": "Atlantic/Madeira",
+        "UTC": "0"
+    },
+    {
+        "objectId": "xwqx6r6L9p",
+        "TimeZone": "Atlantic/South_Georgia",
+        "UTC": "-2"
+    },
+    {
+        "objectId": "Kl8J09L0Nx",
+        "TimeZone": "Atlantic/St_Helena",
+        "UTC": "0"
+    },
+    {
+        "objectId": "wxLWydZ1bu",
+        "TimeZone": "Australia/Currie",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "AsQ7pkAiuY",
+        "TimeZone": "Australia/Adelaide",
+        "UTC": "+ 10.30"
+    },
+    {
+        "objectId": "HeGMFkZgts",
+        "TimeZone": "Australia/Hobart",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "MoYDZui1Pn",
+        "TimeZone": "Australia/Broken_Hill",
+        "UTC": "+ 10.30"
+    },
+    {
+        "objectId": "jXGhrJVEdA",
+        "TimeZone": "Australia/Darwin",
+        "UTC": "+ 9.30"
+    },
+    {
+        "objectId": "pwh9BRDIq6",
+        "TimeZone": "Australia/Lord_Howe",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "wDGIKmU1BW",
+        "TimeZone": "Europe/Belgrade",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "6lBZfasUqS",
+        "TimeZone": "Australia/Brisbane",
+        "UTC": "+ 10"
+    },
+    {
+        "objectId": "2hAEuQH4ij",
+        "TimeZone": "Australia/Lindeman",
+        "UTC": "+ 10"
+    },
+    {
+        "objectId": "23VUJanKvu",
+        "TimeZone": "Europe/Andorra",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "sO2dZh0Yxp",
+        "TimeZone": "Europe/Astrakhan",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "1Dfp3BwHeS",
+        "TimeZone": "Atlantic/Stanley",
+        "UTC": "-3"
+    },
+    {
+        "objectId": "W9fN0Kbrup",
+        "TimeZone": "Australia/Perth",
+        "UTC": "+ 8"
+    },
+    {
+        "objectId": "zUBuD3r54u",
+        "TimeZone": "Europe/Bratislava",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "pGsuR6XmnG",
+        "TimeZone": "Europe/Amsterdam",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "UnaXjrz5Is",
+        "TimeZone": "Australia/Melbourne",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "ijwmtBGJFV",
+        "TimeZone": "Australia/Eucla",
+        "UTC": "+ 8.45"
+    },
+    {
+        "objectId": "SpdFuX1a9f",
+        "TimeZone": "Australia/Sydney",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "ZugcjEjckn",
+        "TimeZone": "Europe/Athens",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "1dglAC43xq",
+        "TimeZone": "Europe/Brussels",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "dPrmSL5eXs",
+        "TimeZone": "Europe/Gibraltar",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "upbcV9PGXj",
+        "TimeZone": "Europe/Dublin",
+        "UTC": "0"
+    },
+    {
+        "objectId": "gH06dMEkw7",
+        "TimeZone": "Europe/Jersey",
+        "UTC": "0"
+    },
+    {
+        "objectId": "SqhKPZnh8U",
+        "TimeZone": "Europe/Helsinki",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "A7rLAzuL8e",
+        "TimeZone": "Europe/Copenhagen",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "s4WHfEQbvH",
+        "TimeZone": "Europe/Kirov",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "EiHA6M5KuD",
+        "TimeZone": "Europe/Madrid",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "ORBBJLB8kY",
+        "TimeZone": "Europe/Guernsey",
+        "UTC": "0"
+    },
+    {
+        "objectId": "7CURFM4wXV",
+        "TimeZone": "Europe/Budapest",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "sZNftGCkYB",
+        "TimeZone": "Europe/Chisinau",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "razToHZKPO",
+        "TimeZone": "Europe/Kiev",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "htGGqRLD7h",
+        "TimeZone": "Europe/Kaliningrad",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "BmWV16Lz8X",
+        "TimeZone": "Europe/Mariehamn",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "kgWEEPHlMh",
+        "TimeZone": "Europe/Berlin",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "TRZGMtnctD",
+        "TimeZone": "Europe/Bucharest",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "M8NEC6Mwaj",
+        "TimeZone": "Europe/Isle_of_Man",
+        "UTC": "0"
+    },
+    {
+        "objectId": "uuzCIGK1Nz",
+        "TimeZone": "Europe/Paris",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "RnBAhnr0lX",
+        "TimeZone": "Europe/Luxembourg",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "NFbFY8eZM0",
+        "TimeZone": "Europe/London",
+        "UTC": "0"
+    },
+    {
+        "objectId": "FjIMrJMzny",
+        "TimeZone": "Europe/Ljubljana",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "wgGQdBlMUi",
+        "TimeZone": "Europe/Moscow",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "MPBdszTkHo",
+        "TimeZone": "Europe/Riga",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "eVlno8tXiC",
+        "TimeZone": "Europe/Busingen",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "0NkUVPKbV0",
+        "TimeZone": "Europe/Istanbul",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "FH1sOE1j4T",
+        "TimeZone": "Europe/Malta",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "H56EffTUcL",
+        "TimeZone": "Europe/Lisbon",
+        "UTC": "0"
+    },
+    {
+        "objectId": "5xehb2bVxq",
+        "TimeZone": "Europe/Monaco",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "YP31f4ADoi",
+        "TimeZone": "Europe/Prague",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "Hoa1nlaStJ",
+        "TimeZone": "Europe/Oslo",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "jW1s1gIGI8",
+        "TimeZone": "Europe/Simferopol",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "nU1RKCav52",
+        "TimeZone": "Europe/Rome",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "GmAGSsKFH9",
+        "TimeZone": "Europe/Stockholm",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "XSwlfovyrM",
+        "TimeZone": "Europe/Saratov",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "LDM4bW7Cl7",
+        "TimeZone": "Europe/Minsk",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "prCXTfweSQ",
+        "TimeZone": "Europe/Samara",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "GY5a4uwlx0",
+        "TimeZone": "Europe/San_Marino",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "9BoAEYG0jt",
+        "TimeZone": "Europe/Sarajevo",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "3cqfy1EVgg",
+        "TimeZone": "Europe/Uzhgorod",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "TTt7YiJgj7",
+        "TimeZone": "Europe/Ulyanovsk",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "PgK5EdfrrW",
+        "TimeZone": "Europe/Podgorica",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "5VuC78ZqXM",
+        "TimeZone": "Europe/Zagreb",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "Frj7lgPy4R",
+        "TimeZone": "Europe/Warsaw",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "PxZ9wygEJL",
+        "TimeZone": "Europe/Tirane",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "jTgjjr4InW",
+        "TimeZone": "Europe/Vilnius",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "gue4GipIZn",
+        "TimeZone": "Europe/Vatican",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "jYNlyU0Hiw",
+        "TimeZone": "Europe/Skopje",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "JEaXxKLw3U",
+        "TimeZone": "Europe/Tallinn",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "yjPZWFHj5L",
+        "TimeZone": "Europe/Sofia",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "GhX3kYcPwu",
+        "TimeZone": "Indian/Chagos",
+        "UTC": "+ 6"
+    },
+    {
+        "objectId": "YxGjCdgeoj",
+        "TimeZone": "Europe/Vaduz",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "BkRTjv3yEE",
+        "TimeZone": "Indian/Kerguelen",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "Gf6LUz6eNF",
+        "TimeZone": "Indian/Mayotte",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "IJbx5gUoKn",
+        "TimeZone": "Indian/Cocos",
+        "UTC": "+ 6.30"
+    },
+    {
+        "objectId": "ScR0Uf4r7M",
+        "TimeZone": "Europe/Vienna",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "SXaOhmDuGz",
+        "TimeZone": "Europe/Volgograd",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "3VbxIW90QL",
+        "TimeZone": "Europe/Zaporozhye",
+        "UTC": "+ 2"
+    },
+    {
+        "objectId": "xPLXeJzXts",
+        "TimeZone": "Europe/Zurich",
+        "UTC": "+ 1"
+    },
+    {
+        "objectId": "Hfv5bMXJFs",
+        "TimeZone": "Pacific/Auckland",
+        "UTC": "+ 13"
+    },
+    {
+        "objectId": "RPTWRpbaJz",
+        "TimeZone": "Indian/Mauritius",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "uR6lvDu9K1",
+        "TimeZone": "Indian/Christmas",
+        "UTC": "+ 7"
+    },
+    {
+        "objectId": "i0ZpxCiMiK",
+        "TimeZone": "Pacific/Funafuti",
+        "UTC": "+ 12"
+    },
+    {
+        "objectId": "OiDoeYBhGi",
+        "TimeZone": "Indian/Mahe",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "LKcY3cquJ8",
+        "TimeZone": "Pacific/Chatham",
+        "UTC": "+ 12.45"
+    },
+    {
+        "objectId": "ztU7ovU4G3",
+        "TimeZone": "Indian/Comoro",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "OU1BRRyeAO",
+        "TimeZone": "Indian/Antananarivo",
+        "UTC": "+ 3"
+    },
+    {
+        "objectId": "y0oufBskSg",
+        "TimeZone": "Indian/Maldives",
+        "UTC": "+ 5"
+    },
+    {
+        "objectId": "JEZKUvhkaV",
+        "TimeZone": "Indian/Reunion",
+        "UTC": "+ 4"
+    },
+    {
+        "objectId": "cfAF55Ycv0",
+        "TimeZone": "Pacific/Efate",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "yjY4C2Nw6U",
+        "TimeZone": "Pacific/Apia",
+        "UTC": "+ 13"
+    },
+    {
+        "objectId": "kaL7vHK6Fl",
+        "TimeZone": "Pacific/Easter",
+        "UTC": "-5"
+    },
+    {
+        "objectId": "C59cIiN2Mo",
+        "TimeZone": "Pacific/Galapagos",
+        "UTC": "-6"
+    },
+    {
+        "objectId": "CSMSLaHIMF",
+        "TimeZone": "Pacific/Gambier",
+        "UTC": "-9"
+    },
+    {
+        "objectId": "DEYXnYD1LG",
+        "TimeZone": "Pacific/Guadalcanal",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "lng445KEY6",
+        "TimeZone": "Pacific/Fiji",
+        "UTC": "+ 13"
+    },
+    {
+        "objectId": "x55REeTMMY",
+        "TimeZone": "Pacific/Fakaofo",
+        "UTC": "+ 13"
+    },
+    {
+        "objectId": "YeMhlEup7m",
+        "TimeZone": "Pacific/Enderbury",
+        "UTC": "+ 13"
+    },
+    {
+        "objectId": "j4OAB3E94Z",
+        "TimeZone": "Pacific/Bougainville",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "DIvy4TxPE8",
+        "TimeZone": "Pacific/Chuuk",
+        "UTC": "+ 10"
+    },
+    {
+        "objectId": "LTXHU6B5qL",
+        "TimeZone": "Pacific/Guam",
+        "UTC": "+ 10"
+    },
+    {
+        "objectId": "y0hXl8NQHD",
+        "TimeZone": "Pacific/Kosrae",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "Ay3ANtPIeN",
+        "TimeZone": "Pacific/Honolulu",
+        "UTC": "-10"
+    },
+    {
+        "objectId": "BwZvBZ1TE5",
+        "TimeZone": "Pacific/Norfolk",
+        "UTC": "+ 12"
+    },
+    {
+        "objectId": "MODx7ZSr5b",
+        "TimeZone": "Pacific/Kiritimati",
+        "UTC": 14
+    },
+    {
+        "objectId": "ZepTuKOnV0",
+        "TimeZone": "Pacific/Niue",
+        "UTC": "-11"
+    },
+    {
+        "objectId": "tCUBxDF7Jm",
+        "TimeZone": "Pacific/Palau",
+        "UTC": "+ 9"
+    },
+    {
+        "objectId": "hKgQcodLHH",
+        "TimeZone": "Pacific/Rarotonga",
+        "UTC": "-10"
+    },
+    {
+        "objectId": "qcUHFGclUH",
+        "TimeZone": "Pacific/Kwajalein",
+        "UTC": "+ 12"
+    },
+    {
+        "objectId": "TDBdtwFE3U",
+        "TimeZone": "Pacific/Pago_Pago",
+        "UTC": "-11"
+    },
+    {
+        "objectId": "1SX1ZZFEh5",
+        "TimeZone": "Pacific/Pohnpei",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "ca4V0HcoMS",
+        "TimeZone": "Pacific/Nauru",
+        "UTC": "+ 12"
+    },
+    {
+        "objectId": "HmVyTRjfnO",
+        "TimeZone": "Pacific/Pitcairn",
+        "UTC": "-8"
+    },
+    {
+        "objectId": "coCTliABkA",
+        "TimeZone": "Pacific/Midway",
+        "UTC": "-11"
+    },
+    {
+        "objectId": "DUx7yqzQRj",
+        "TimeZone": "Pacific/Port_Moresby",
+        "UTC": "+ 10"
+    },
+    {
+        "objectId": "1Iy03fSpTd",
+        "TimeZone": "Pacific/Saipan",
+        "UTC": "+ 10"
+    },
+    {
+        "objectId": "Xxy9jbZrBI",
+        "TimeZone": "Pacific/Majuro",
+        "UTC": "+ 12"
+    },
+    {
+        "objectId": "OrnXmkLaXk",
+        "TimeZone": "Pacific/Tahiti",
+        "UTC": "-10"
+    },
+    {
+        "objectId": "jeLcVDk8f0",
+        "TimeZone": "Pacific/Noumea",
+        "UTC": "+ 11"
+    },
+    {
+        "objectId": "egcoxkIHKj",
+        "TimeZone": "Pacific/Tongatapu",
+        "UTC": "+ 13"
+    },
+    {
+        "objectId": "jZWAJBUEjk",
+        "TimeZone": "Pacific/Tarawa",
+        "UTC": "+ 12"
+    },
+    {
+        "objectId": "G7Nz0NLAvu",
+        "TimeZone": "Pacific/Marquesas",
+        "UTC": "-9.30"
+    },
+    {
+        "objectId": "MOjGZtehlS",
+        "TimeZone": "Pacific/Wake",
+        "UTC": "+ 12"
+    },
+    {
+        "objectId": "6U3IK6scx0",
+        "TimeZone": "Pacific/Wallis",
+        "UTC": "+ 12"
+    }
+]

@@ -1,0 +1,238 @@
+{
+	"info": {
+		"_postman_id": "adcedd8d-ac54-404e-b795-526f29e64e1c",
+		"name": "Developer Registration/login flow",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Developer Registration",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							"let second = new Date().getSeconds()",
+							"let email = \"abc\"+second+\"@gmail.com\"",
+							"let password = \"123456\"",
+							"",
+							"pm.environment.set('email',email)",
+							"pm.environment.set('password',password)",
+							""
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test('has token and user object',function(){",
+							"    const {token,user} = pm.response.json()",
+							"    pm.environment.set('token',token)",
+							"    pm.environment.set('id',user)",
+							"    return {token,user}",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\":\"rafat\",\n    \"lastName\":\"hasan\",\n    \"email\":\"{{email}}\",\n    \"password\":\"{{password}}\",\n    \"phone\":\"324324234\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "{{host}}api/users"
+			},
+			"response": []
+		},
+		{
+			"name": "Developer Create Other info",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test('logged in',function(){",
+							"    pm.response.to.have.status(200)",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"otherInfo\": {\n        \"location\": \"Dhaka\",\n        \"socialLink\": [\n            \"www.facebook.com\"\n        ],\n        \"referral\": \"friend\",\n        \"prefferedRole\": \"FullStack\",\n        \"employmentType\": \"part time\",\n        \"isRelocation\": true,\n        \"visa\": true\n    }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "{{host}}api/createOtherInfo/{{id}}"
+			},
+			"response": []
+		},
+		{
+			"name": "Developer Login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test('should return 200 if request to auth/signin ',function(){",
+							"    pm.response.to.have.status(200)",
+							"})",
+							"",
+							"pm.test('has token and user object',function(){",
+							"    const {token,user} = pm.response.json()",
+							"    pm.environment.set('token',token)",
+							"    pm.environment.set('id',user.id)",
+							"    return {token,user}",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"email\":\"{{email}}\",\n    \"password\":\"{{password}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "{{host}}auth/signin"
+			},
+			"response": []
+		},
+		{
+			"name": "Developer Profile",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(`should return 200 response if GET request to /api/users/`+pm.environment.get('id'),function(){",
+							"    pm.response.to.have.status(200)",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "{{host}}api/users/{{id}}"
+			},
+			"response": []
+		},
+		{
+			"name": "Developer Profile Update",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(`should return 200 response if PUT request to /api/users/`+pm.environment.get('id'),function(){",
+							"    pm.response.to.have.status(200)",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"lastName\":\"Rafiq\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "{{host}}api/users/{{id}}"
+			},
+			"response": []
+		},
+		{
+			"name": "Developer Remove Profile",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(`should return 200 response if DELETE request to /api/users/`+pm.environment.get('id'),function(){",
+							"    pm.response.to.have.status(200)",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"url": "{{host}}api/users/{{id}}"
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,121 @@
+[
+  {
+    "_id": 1,
+    "name": "Generous Vacation ",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 2,
+    "name": "gym / fitness",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 3,
+    "name": "Free food",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 4,
+    "name": "Beautiful Office",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 5,
+    "name": "Pet Friendly",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 6,
+    "name": "Company Retreats",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 7,
+    "name": "Workshops/ Conferences",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 8,
+    "name": "Maternal / Paternal leave",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 9,
+    "name": "Flexible Hours",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 10,
+    "name": "Health Insurance",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 11,
+    "name": "Team Activities",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 12,
+    "name": "Transportation",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 13,
+    "name": "Work from home",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 14,
+    "name": "Minority led Company",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 15,
+    "name": "Social impact driven",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 16,
+    "name": "Visa support",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  },
+  {
+    "_id": 17,
+    "name": "LGBTQ+ friendly",
+    "checked": false,
+    "description": "",
+    "editBtnStatus": false
+  }
+]

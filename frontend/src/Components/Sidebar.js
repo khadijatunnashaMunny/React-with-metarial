@@ -15,6 +15,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import  Dashboard  from './Dashboard';
+import  filter  from './Filter';
 
 const drawerWidth = 240;
 
@@ -103,9 +104,10 @@ function Sidebar(props) {
         component="main"
         sx={{ flexGrow: 1, p: 3, width: { sm: `calc(100% - ${drawerWidth}px)` } }}
       >
-        <Toolbar />
-       <Dashboard></Dashboard>
+     
+       
       </Box>
+    
     </Box>
   );
 }

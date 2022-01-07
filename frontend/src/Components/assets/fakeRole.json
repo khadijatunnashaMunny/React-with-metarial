@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Software Engineer",
+        "roles":[
+            "Front end engineer",
+            "Back end engineer",
+            "Full Stack engineer",
+            "Mobile engineer",
+            "Embedded engineer"
+        ]
+    },
+    {
+        "title": "INFRASTRUCTURE",
+        "roles":[
+            "DevOps engineer"
+        ]
+    },
+    {
+        "title": "DATA",
+        "roles":[
+            "Data engineer",
+            "Data Scientist",
+            "Machine learning Eng."
+        ]
+    },
+    {
+        "title": "LEADERSHIP",
+        "roles":[
+            "Engineering Manager",
+            "Tech Lead"
+        ]
+    }
+
+]
