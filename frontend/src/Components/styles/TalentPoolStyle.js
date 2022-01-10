@@ -1,16 +1,64 @@
 import { makeStyles } from '@mui/styles';
 const drawerWidth = 240;
 
-export default makeStyles({
+export default makeStyles((theme) => ({
   // necessary for content to be below app bar Start
-
+  toolbar: theme.mixins.toolbar,
+  drawerPaper: {
+    width: drawerWidth,
+  },
+  content: {
+    flexGrow: 1,
+  },
   root: {
     display: "flex",
-    marginTop:'5%'
   },
- 
+  drawer: {
+    [theme.breakpoints.up("sm")]: {
+      width: drawerWidth,
+      flexShrink: 0,
+    },
+  },
+  appBar: {
+    [theme.breakpoints.up("sm")]: {
+      width: `calc(100% - ${drawerWidth}px)`,
+      marginLeft: drawerWidth,
+    },
+  },
+  menuButton: {
+    marginRight: theme.spacing(2),
+    [theme.breakpoints.up("sm")]: {
+      display: "none",
+    },
+  },
 
+  // necessary for content to be below app bar End
 
+  filterContainer: {
+    boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.15)",
+    padding: 25,
+    height: "100%",
+    "@media (min-width: 960px)": {
+      position: "fixed",
+      overflow: "auto",
+      width: "100%",
+    },
+    "&::-webkit-scrollbar": {
+      width: 5,
+    },
+    "&::-webkit-scrollbar-track": {
+      boxShadow: "inset 0 0 5px #a5aaad",
+      borderRadius: "10px",
+    },
+
+    "&::-webkit-scrollbar-thumb": {
+      background: "#56CABB",
+      borderRadius: "10px",
+    },
+    "&::-webkit-scrollbar-thumb:hover": {
+      background: "#a5aaad",
+    },
+  },
 
   filterExpectedSalary: {
     display: "flex",
@@ -90,8 +138,8 @@ export default makeStyles({
   talentDetail: {
     width: "80%",
     margin: "auto",
-    marginTop:'3%',
-    paddingBottom: '1%',
+    marginTop: theme.spacing(5),
+    paddingBottom: theme.spacing(1),
     boxShadow: "1px 1px 5px #ccc",
     backgroundColor: "#F7F8FA",
   },
@@ -209,7 +257,7 @@ export default makeStyles({
     textAlign: "center",
   },
   menuButton: {
-    marginRight:'2%',
+    marginRight: theme.spacing(2),
   },
   title: {
     marginRight: "auto",
@@ -226,4 +274,4 @@ export default makeStyles({
       marginBottom: "0px",
     },
   },
-});
+}));

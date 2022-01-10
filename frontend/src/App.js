@@ -1,8 +1,13 @@
-import MainRouter from './MainRouter'
+import MainRouter from "./MainRouter";
+import theme from "./Theme";
+import { ThemeProvider } from '@mui/material/styles';
+
 function App() {
   return (
-    <div >
-      <MainRouter/>
+    <div>
+        <ThemeProvider theme={theme}>
+          <MainRouter />
+        </ThemeProvider>
     </div>
   );
 }
