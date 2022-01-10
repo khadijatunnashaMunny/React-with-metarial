@@ -1,28 +1,54 @@
-import React,{useState} from 'react';
-import InboxIcon from '@mui/icons-material/MoveToInbox';
-import MailIcon from '@mui/icons-material/Mail';
+import React, { useState } from "react";
 import MenuIcon from '@mui/icons-material/Menu';
-import  Dashboard  from './Dashboard';
-import  filter  from './Filter';
-import {  Chip,
-  FormControlLabel,
-  Grid,Toolbar,List,IconButton,Drawer,Divider,ListItemText,CssBaseline,Box,AppBar,
-Hidden,Link,
- Typography,
-  Button} from '@mui/material';
-  import {
-    MdDashboard,
- 
-  } from "react-icons/md";
-  import { IoLogoSlack } from "react-icons/io";
-
+import { useTheme } from "@mui/material/styles";
+import {
+  Button,AppBar,CssBaseline,Drawer,Hidden,List,Toolbar,Typography,Menu,MenuItem,Box,
+  Divider,
+  IconButton,
+} from "@mui/material";
 import useStyles from "./styles/sidebarStyle";
+import { Link } from "react-router-dom";
+import {
+  MdDashboard,
+  MdExpandLess,
+  MdExpandMore,
+  MdPeople,
+  MdReport,
+} from "react-icons/md";
+import { FaExternalLinkAlt, FaHireAHelper } from "react-icons/fa";
+import { CgInternal } from "react-icons/cg";
+import { IoLogoSlack } from "react-icons/io";
+import { RiBarChartHorizontalFill } from "react-icons/ri";
+import { RiBuilding4Line } from "react-icons/ri";
+import { MdAccountBalance } from "react-icons/md";
+import { ImProfile } from "react-icons/im";
 
-function Sidebar(props) {
+export default function Sidebar(props) {
+  const [anchorEl, setAnchorEl] = useState(null);
+  const handleClick = (event) => {
+    setAnchorEl(event.currentTarget);
+  };
+  const [openAccountSubMenu, setOpenAccountSubMenu] = useState(false);
+  const handleCompanyAccountSubMenu = () => {
+    setOpenAccountSubMenu(!openAccountSubMenu);
+  };
+  const [openCompanySettingsSubMenu, setOpenCompanySettingsSubMenu] = useState(
+    false
+  );
+
+  const handleClose = () => {
+    setAnchorEl(null);
+  };
+  const drawerWidth = 240;
+
+  const { window, page } = props;
+
   const classes = useStyles();
 
-  const { window } = props;
-  const [mobileOpen, setMobileOpen] = useState(false);
+
+  const theme = useTheme();
+ 
+  const [mobileOpen, setMobileOpen] = React.useState(false);
 
   const handleDrawerToggle = () => {
     setMobileOpen(!mobileOpen);
@@ -47,6 +73,7 @@ function Sidebar(props) {
         <Button className={classes.text}>
           <Link
             to="/dashboard"
+           
           >
             <span className={classes.sidebarIcon}>
               <MdDashboard />{" "}
@@ -55,69 +82,122 @@ function Sidebar(props) {
           </Link>
         </Button>
       </List>
-     
+   
+          <List>
+            <Button className={classes.text}>
+              <Link
+                to="/talent-pool"
+               
+              >
+                {" "}
+                <span className={classes.sidebarIcon}>
+                  <MdPeople />
+                </span>
+                Talent pool
+              </Link>
+            </Button>
+          </List>
+
+          <List>
+            <Button className={classes.text}>
+              <Link
+                to="/campaign"
+                style={{
+                  color: page == 3 ? "#00756A" : "#444",
+                  fontWeight: page == 3 ? "700" : "400",
+                }}
+              >
+                {" "}
+                <span className={classes.sidebarIcon}>
+                  <CgInternal />
+                </span>
+                Internal Campaigns
+              </Link>
+            </Button>
+          </List>
+          <List>
+            <Button className={classes.text}>
+              <Link
+                to=""
+              
+              >
+                {" "}
+                <span className={classes.sidebarIcon}>
+                  <FaExternalLinkAlt />{" "}
+                </span>
+                External Campaigns
+              </Link>
+            </Button>
+          </List>
+ 
+   
 
       <Divider />
     </div>
   );
 
-  const container = window !== undefined ? () => window().document.body : undefined;
+  const container =
+    window !== undefined ? () => window().document.body : undefined;
 
   return (
-    <div className={classes.root}>
-      <CssBaseline />
-      <AppBar position="fixed" className={classes.appBar}>
-        <Toolbar>
-          <IconButton
-            color="inherit"
-            aria-label="open drawer"
-            edge="start"
-            className={classes.menuButton}
-          >
-            <MenuIcon />
-          </IconButton>
-          <div className={classes.appbarclass}>
-            <div className={classes.taskClass}>
-              <Typography variant="h5">Techhack</Typography>
-            </div>
+  
+    <Box sx={{ display: 'flex' }}>
+    <CssBaseline />
+    <AppBar
+      position="fixed"
+      sx={{
+        width: { sm: `calc(100% - ${drawerWidth}px)` },
+        ml: { sm: `${drawerWidth}px` },
+      }}
+    >
+      <Toolbar>
+        <IconButton
+          color="inherit"
+          aria-label="open drawer"
+          edge="start"
+          onClick={handleDrawerToggle}
+          sx={{ mr: 2, display: { sm: 'none' } }}
+        >
+          <MenuIcon />
+        </IconButton>
+        <Typography variant="h6" noWrap component="div">
+          Responsive drawer
+        </Typography>
+      </Toolbar>
+    </AppBar>
+    <Box
+      component="nav"
+      sx={{ width: { sm: drawerWidth }, flexShrink: { sm: 0 } }}
+      aria-label="mailbox folders"
+    >
+      {/* The implementation can be swapped with js to avoid SEO duplication of links. */}
+      <Drawer
+        container={container}
+        variant="temporary"
+        open={mobileOpen}
+        onClose={handleDrawerToggle}
+        ModalProps={{
+          keepMounted: true, // Better open performance on mobile.
+        }}
+        sx={{
+          display: { xs: 'block', sm: 'none' },
+          '& .MuiDrawer-paper': { boxSizing: 'border-box', width: drawerWidth },
+        }}
+      >
+        {drawer}
+      </Drawer>
+      <Drawer
+        variant="permanent"
+        sx={{
+          display: { xs: 'none', sm: 'block' },
+          '& .MuiDrawer-paper': { boxSizing: 'border-box', width: drawerWidth },
+        }}
+        open
+      >
+        {drawer}
+      </Drawer>
+    </Box>
 
-        
-          </div>
-        </Toolbar>
-      </AppBar>
-      <nav className={classes.drawer} aria-label="mailbox folders">
-        {/* The implementation can be swapped with js to avoid SEO duplication of links. */}
-        <Hidden smUp implementation="css">
-          <Drawer
-            container={container}
-            variant="temporary"
-            classes={{
-              paper: classes.drawerPaper,
-            }}
-            ModalProps={{
-              keepMounted: true, // Better open performance on mobile.
-            }}
-          >
-            {drawer}
-          </Drawer>
-        </Hidden>
-        <Hidden xsDown implementation="css">
-          <Drawer
-            classes={{
-              paper: classes.drawerPaper,
-            }}
-            variant="permanent"
-            open
-          >
-            {drawer}
-          </Drawer>
-        </Hidden>
-      </nav>
-      <main className={classes.content}></main>
-    </div>
+  </Box>
   );
 }
-
-
-
-export default Sidebar;
