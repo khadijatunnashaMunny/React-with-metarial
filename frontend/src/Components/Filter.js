@@ -56,7 +56,7 @@ export default function TalentPools(props) {
           data.toLowerCase().startsWith(e.target.value.toLowerCase())
         )
       );
-      //console.log(filteredSkills);
+      console.log(filteredSkills);
     } else {
       setFilteredSkills([]);
     }
@@ -124,9 +124,10 @@ export default function TalentPools(props) {
     isRelocation,
     englishProficiencyLevelData,
   ]);
- // console.log("filtered skills",filter);
+ console.log("filtered skills",filter);
 
   // filter section end
+  // for tooltip in expected salary slider end
 
   // for tooltip in expected salary slider
   function ValueLabelComponent(props) {
@@ -147,7 +148,7 @@ export default function TalentPools(props) {
  
   return (
     <div className={classes.root}>
-    <Sidebar  />
+    <Sidebar page={2} />
     <main style={{ width: "100%" }}>
       <div className={classes.toolbar} />
       <Grid container spacing={0}>
